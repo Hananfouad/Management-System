@@ -5,5 +5,5 @@ There is a civil engineer who wants to follow up her finishing operations of a 1
 •	Plumbers
 •	Painters
 •	Clean workers
- This document discusses the design of a web-based system to enable this engineer to follow up the operations needed. 
+ This scenario document discusses the design of a web-based system to enable this engineer to follow up the operations needed. 
  
